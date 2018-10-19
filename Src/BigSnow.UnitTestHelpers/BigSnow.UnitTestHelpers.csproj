@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Mark Edmunds</Authors>
+    <Company>Big Snow Software</Company>
+    <RepositoryUrl>https://github.com/markedmunds/UnitTestHelpers</RepositoryUrl>
+    <Description>A collection of unit test helpers and random value generators</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>Unit Tests</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
